@@ -4,6 +4,12 @@
    Author's custom styles
    ========================================================================== */
 
+/* ============== This makes the dropdown active on hover ================
+========================================================================== */
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+  display: block;    
+}
+
 
 
 
